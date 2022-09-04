@@ -8,6 +8,8 @@ Make sure your server is up and running to serve requests.
 
 ## Pages overview
 
+This suckes
+
 - Home page (URL: /#/ )
   - List of tags
   - List of items pulled from either Feed, Global, or by Tag
